@@ -1,0 +1,199 @@
+header{
+    background-color: rgb(0, 204, 255);
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+.nav{
+    display: flex;
+    flex-basis: 70%;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.logo1{
+    flex-basis: 25%;
+    background-color: rgb(255, 190, 10);
+    height: 25px;
+    border: 1px;
+    border-style: dashed;
+    align-items: center;
+    display: flex;
+    justify-content: flex-start;
+}
+.link{
+    flex-basis: 50%;
+    background-color: rgb(255, 190, 10);
+    height: 25px;
+    border: 1px;
+    border-style: dashed;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.login{
+    flex-basis: 25%;
+    background-color: rgb(255, 190, 10);
+    height: 25px;
+    border: 1px;
+    border-style: dashed;
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.conteiner1{
+    display: flex;
+    background-color: rgb(0, 0, 112);
+    min-height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+.intro{
+    background-color: pink;
+    flex-basis: 50%;
+    height: 250px;
+    border: 1px;
+    border-style: dashed;
+    
+}
+
+
+.conteiner2{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    min-height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+.section1{
+    background-color:cornflowerblue;
+    flex-basis: 50%;
+    height: 250px;  
+    border: 1px;
+    border-style: dashed;  
+}
+.section2{
+    background-color: pink;
+    flex-basis: 20%;
+    height: 250px; 
+    border: 1px;
+    border-style: dashed;   
+}
+
+
+.conteiner3{
+    display: flex;
+    background-color: grey;
+    min-height: 300px;
+    justify-content: center;
+    align-items: center;
+}
+
+.conteiner4{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    min-height: 300px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.conteiner5{
+    display: flex;
+    background-color: grey;
+    min-height: 400px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.section3{
+    background-color: green;
+    flex-basis: 70%;
+    height: 300px;
+    border: 1px;
+    border-style: dashed;
+}
+
+
+.conteiner6{
+    display: flex;
+    background-color:rgb(31, 27, 27);
+    min-height: 300px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.section4{
+    background-color: pink;
+    flex-basis: 30%;
+    height: 270px;
+    border: 1px;
+    border-style: dashed;
+}
+.section5{
+    background-color:cornflowerblue;
+    flex-basis: 10%;
+    height: 270px; 
+    border: 1px;
+    border-style: dashed;
+}
+.section6{
+    background-color:cornflowerblue;
+    flex-basis: 10%;
+    height: 270px; 
+    border: 1px;
+    border-style: dashed;
+}
+.section7{
+    background-color:cornflowerblue;
+    flex-basis: 10%;
+    height: 270px; 
+    border: 1px;
+    border-style: dashed;
+}
+.section8{
+    background-color:cornflowerblue;
+    flex-basis: 10%;
+    height: 270px; 
+    border: 1px;
+    border-style: dashed;
+}
+hr{
+   margin: 0px;
+}
+footer{
+    background-color: rgb(31, 27, 27);
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+
+    
+}
+.end{
+    background-color:aqua;
+    height: 35px;
+    display: flex;
+    flex-basis: 70%;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    background-color:pink;
+    flex-basis: 10%;
+    height: 20px; 
+    border: 1px;
+    border-style: dashed; 
+}
+.bottone{
+    background-color:pink;
+    flex-basis: 10%;
+    height: 20px; 
+    border: 1px;
+    border-style: dashed; 
+}
+
